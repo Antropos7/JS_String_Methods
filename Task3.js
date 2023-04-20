@@ -1,4 +1,3 @@
-
 function capitaliserOfVowels(str){
 let capitalisedLetters = "";
 for (let i = 0; i < str.length; i++) {
